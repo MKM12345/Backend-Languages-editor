@@ -41,3 +41,10 @@ To use the Code Editor, follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
+## Contributions
+
+It will be added for people who contribute.
+
+## Collaborators
+
+[@hamdivazim](https://www.github.com/hamdivazim

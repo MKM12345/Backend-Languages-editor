@@ -1,7 +1,7 @@
 # Backend-Languages-editor
 # Code Editor
 
-This is a lightweight code editor built using Python, C++, and HTML. It allows users to enter, compile, and run C++ code on a web page.
+This is a lightweight code editor built using Python, Django, and HTML. It allows users to enter, compile, and run C++ code on a web page.
 
 ## Installation
 

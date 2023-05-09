@@ -47,4 +47,4 @@ It will be added for people who contribute.
 
 ## Collaborators
 
-[@hamdivazim](https://www.github.com/hamdivazim
+[@hamdivazim](https://www.github.com/hamdivazim)

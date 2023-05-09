@@ -3,6 +3,8 @@
 
 This is a lightweight code editor built using Python, Django, and HTML. It allows users to enter, compile, and run C++ code on a web page.
 
+This isn't ready, but we are working on it.
+
 ## Installation
 
 To install the Code Editor, follow these steps:
@@ -10,7 +12,7 @@ To install the Code Editor, follow these steps:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/code-editor.git
+    git clone https://github.com/MKM12345/Backend-Languages-editor.git
     ```
 
 2. Install the dependencies:
